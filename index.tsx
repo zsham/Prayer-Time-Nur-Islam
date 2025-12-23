@@ -837,7 +837,7 @@ const NurPrayerApp: React.FC = () => {
             <span className="font-serif italic tracking-widest uppercase">Nur-Islam — Light in Presence</span>
             <div className="h-px w-8 bg-emerald-800/40" />
           </div>
-          <p>© {new Date().getFullYear()} Global Prayer Intelligence. Powered by Gemini & Aladhan.</p>
+          <p>© {new Date().getFullYear()} Global Prayer Intelligence. Powered by Developer z@Sham Software Project Developer</p>
         </footer>
       </div>
 
