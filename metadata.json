@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "name": "Nur-Islam",
+  "description": "A comprehensive Islamic prayer time and spiritual reflection application."
+}
