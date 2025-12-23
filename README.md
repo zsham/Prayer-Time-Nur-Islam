@@ -1,5 +1,10 @@
 <div align="center">
-[<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />](https://github.com/zsham/Prayer-Time-Nur-Islam/pull/1#issue-3755722550)
+![1](https://github.com/user-attachments/assets/2f6263ba-6333-4068-b0f5-5e39c10e522e)
+![2](https://github.com/user-attachments/assets/b900b342-a385-4205-bc68-787484d46967)
+![3](https://github.com/user-attachments/assets/96c692c4-3557-4668-bb18-e469810a8690)
+![4](https://github.com/user-attachments/assets/3f1f3817-265d-4e96-ac06-c1d6411b928a)
+![5](https://github.com/user-attachments/assets/c275bcac-4ec3-45ff-8a4b-2d67f800efd7)
+![6](https://github.com/user-attachments/assets/e1ab151f-8bd9-4d84-ba7b-221bd916c049)
 </div>
 
 # Run and deploy your AI Studio app
